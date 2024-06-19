@@ -7,8 +7,12 @@
             </header>
 
             <div class="overflow-auto">
-                <v-list-item link>Something 1</v-list-item>
-                <v-list-item link>Something 2</v-list-item>
+                <v-list-item link>Dashboard</v-list-item>
+                <v-list-item link>Devices</v-list-item>
+                <v-list-item link>Load Disaggregation</v-list-item>
+                <v-list-item link>Prediction</v-list-item>
+                <v-list-item link>Recommender and Analysis</v-list-item>
+                <v-list-item link>Help</v-list-item>
             </div>
 
             <template v-slot:append>
