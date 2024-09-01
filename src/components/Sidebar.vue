@@ -7,7 +7,7 @@
             </header>
 
             <div class="overflow-auto">
-                <v-list-item link>Dashboard</v-list-item>
+                <v-list-item link to="/dashboard">Dashboard</v-list-item>
                 <v-list-item link>Devices</v-list-item>
                 <v-list-item link>Load Disaggregation</v-list-item>
                 <v-list-item link>Prediction</v-list-item>
